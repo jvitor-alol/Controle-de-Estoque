@@ -1,0 +1,15 @@
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/bin/Debug/net6.0/controleEstoque
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/bin/Debug/net6.0/controleEstoque.deps.json
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/bin/Debug/net6.0/controleEstoque.runtimeconfig.json
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/bin/Debug/net6.0/controleEstoque.dll
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/bin/Debug/net6.0/controleEstoque.pdb
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/obj/Debug/net6.0/controleEstoque.csproj.AssemblyReference.cache
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/obj/Debug/net6.0/controleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/obj/Debug/net6.0/controleEstoque.AssemblyInfoInputs.cache
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/obj/Debug/net6.0/controleEstoque.AssemblyInfo.cs
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/obj/Debug/net6.0/controleEstoque.csproj.CoreCompileInputs.cache
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/obj/Debug/net6.0/controleEstoque.dll
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/obj/Debug/net6.0/refint/controleEstoque.dll
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/obj/Debug/net6.0/controleEstoque.pdb
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/obj/Debug/net6.0/controleEstoque.genruntimeconfig.cache
+/home/jvitor/Development/Controle-de-Estoque-PTI-ALGII-/controleEstoque/obj/Debug/net6.0/ref/controleEstoque.dll
